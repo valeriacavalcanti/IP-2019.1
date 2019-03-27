@@ -8,11 +8,12 @@
 - Profa.: [Valéria Cavalcanti](http://valeria.eti.br)
 
 
-## **Códigos**
+## **Códigos e Dicas**
 Códigos desenvolvidos em sala de aula.
 
-\# | Data | Projeto | Conteúdo
---- | --- | --- | ---
+\# | Data | Conteúdo
+--- | --- | ---
+01 | 27/03/2019 | Split para leitura em uma única linha.
 
 
 ## **Listas de Exercícios**
