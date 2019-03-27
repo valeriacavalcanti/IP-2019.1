@@ -15,7 +15,7 @@ Códigos desenvolvidos em sala de aula.
 --- | --- | --- | ---
 
 
-## **Lista de Exercícios**
+## **Listas de Exercícios**
 Sugestão de solução para as listas de exercícios.
 
 \# | Data | Projeto | Conteúdo
