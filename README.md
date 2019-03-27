@@ -18,6 +18,6 @@ Códigos desenvolvidos em sala de aula.
 ## **Listas de Exercícios**
 Sugestão de solução para as listas de exercícios.
 
-\# | Data | Projeto | Conteúdo
---- | --- | --- | ---
-
+\# | Data | Lista
+--- | --- | ---
+1 | 26/03/2019 | Lista 01
